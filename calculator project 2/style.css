@@ -1,0 +1,56 @@
+h1{
+
+    color:blue;
+   text-align: center;
+}
+   
+
+.card{
+margin:0 auto;
+max-width:350px;
+background-color: aqua;
+border:solid 3px rgb(0, 29, 0);
+text-align:center;
+margin-top:10px;
+border-radius:3%;
+transition: 0.3s;
+
+}
+
+
+.card-hover{
+    box-shadow:0 16px 12px 0 rgb(33, 33, 229);
+}
+
+.calc-head #result{
+    width: 325px;
+    height:100px;
+    font-size: 32px;
+    font-weight:bold;
+    text-align:right;
+    padding:0 5px;
+    letter-spacing: 2px;
+    margin-top:3px
+
+
+}
+.btn{
+    margin-top: 5px;
+    width:80px;
+    height:70px;
+    border-radius:20%;
+    border:solid 2px rgb(6, 254, 27);
+    font-weight:bold;
+    background-color: rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+font-size:20px;
+
+
+}
+.btn-style{
+    background-color: rgb(59, 7, 108);
+   
+}
+.btn:hover{
+    background-color: rgb(220, 77, 170);
+}
